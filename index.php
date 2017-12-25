@@ -1,5 +1,3 @@
 <?php
-echo "Êä³öÐÅÏ¢";
-
-
+echo "update information";
 ?>
